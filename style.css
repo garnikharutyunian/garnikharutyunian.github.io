@@ -77,14 +77,12 @@ h1 {
 }
 
 .again {
-  color: yellow;
   position: absolute;
   top: 10rem;
   left: 2rem;
 }
 
 .new-game {
-  color: red;
   position: absolute;
   top: 2rem;
   left: 2rem;
